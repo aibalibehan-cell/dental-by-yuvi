@@ -127,7 +127,7 @@ window.LAVA_DATA = {
         "id": "68d6727f3084d0c492a78cc3",
         "number": "01",
         "title": "Complex diagnostics",
-        "image": "assets/images/service_1_large_Complex_20diagnostics-960x223.avif",
+        "image": "assets/images/service_1_large_complex_20diagnostics-960x223.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">During the complex diagnosis, regardless of your goal, you&#39;ll discover how to reach it safely and most conveniently: </p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >Healthy teeth </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >Confident smile </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >Replacement of missing teeth </li></ul><p style=\"text-align: left;\">What we do during the diagnosis: </p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >Full examination of your oral cavity and teeth </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >Intraoral scanning with innovative 3Shape and iTero Lumina scanners, incorporating the NIRI function and artificial intelligence — this helps to diagnose caries early </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >3D computed tomography, digital X-rays </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"4\"\n        >Portrait photographs for smile analysis </li></ul><p style=\"text-align: left;\">Data analysis and treatment plan: </p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >All data is carefully analysed </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >Our team of doctors devises a personalised treatment plan in a consultation format with clear deadlines, expenditures and forecasts </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >We prepare a digital smile design (DSD) so that you can envision the expected final result in advance</li></ul><p style=\"text-align: left;\">Presentation of the plan: </p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >Takes place during a private appointment in a relaxed atmosphere, where you can ask any questions you may have </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >Our coordinator ensures that the entire treatment experience is comfortable and well-planned</li></ul><p style=\"text-align: left;\">The most important thing is that you don&#39;t have to worry about anything. You can focus only on what is important — your health.</p></div>",
         "link": "#services",
         "pricing": [],
@@ -144,7 +144,7 @@ window.LAVA_DATA = {
         "id": "68d68fd33084d0c492a790e8",
         "number": "02",
         "title": "Professional hygiene",
-        "image": "assets/images/Hygien-600x820.avif",
+        "image": "assets/images/hygien-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">Healthy teeth and a radiant smile begin with proper hygiene. LAVA Dental Studio uses state-of-the-art — EMS AIRFLOW® Prophylaxis Master.</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >The treatment is performed according to the Guided Biofilm Therapy protocol, a method synonymous with safety, precision and comfort</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Removes plaque, pigments and tartar effectively, while maintaining healthy tooth tissue </li><li\n          class=\"\"\n          style=\"\"\n          value=\"3\"\n        >The result — a clean, smooth and healthy smile without pain and discomfort </li></ul><p style=\"text-align: left;\">We recommend undergoing professional hygiene treatment every 3–6 months, depending on your daily habits.</p></div>",
         "link": "#services",
         "pricing": [],
@@ -161,7 +161,7 @@ window.LAVA_DATA = {
         "id": "68d68ffe3084d0c492a7912f",
         "number": "03",
         "title": "Veneers",
-        "image": "assets/images/service_3_large_Veneers-600x820.avif",
+        "image": "assets/images/service_3_large_veneers-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">A smile that radiates self-confidence. Our veneers are not just a dental solution — they are genuine works of art. </p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >Made in our specialised laboratory in <strong>Dubai (UAE)</strong>, where they are carefully designed by the world&#39;s leading ceramists </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >Each veneer is individually handcrafted with flawless precision </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >We use only exclusive <strong>feldspar ceramics</strong> and other premium quality ceramics </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"4\"\n        >We also work with non-prep veneers (complex diagnosis is required to determine this) </li><li\n          class=\"\"\n          style=\"\"\n          value=\"5\"\n        >The result is a natural smile, perfectly tailored to your face and personality</li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -205,7 +205,7 @@ window.LAVA_DATA = {
         "id": "68d690133084d0c492a7916a",
         "number": "04",
         "title": "Dental implants",
-        "image": "assets/images/Implants-600x820.avif",
+        "image": "assets/images/implants-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">A smile makeover with a natural feel. An implant is a safe and long-lasting solution that serves as an artificial tooth root onto which a crown or bridge is attached.</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >We work with the world&#39;s leading implantology system <strong>Straumann</strong> (Swiss quality, No. 1 implant in the world) </li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >We also offer <strong>Neodent</strong>, which is ideally suited for the <strong>ALL-ON-X</strong> treatment</li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -234,7 +234,7 @@ window.LAVA_DATA = {
         "id": "68d690303084d0c492a791a3",
         "number": "05",
         "title": "ALL-ON-X",
-        "image": "assets/images/Aligners-600x820.avif",
+        "image": "assets/images/aligners-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        ><strong>Full smile makeover in one day </strong></li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >During the operation, <strong>all damaged teeth are removed</strong> and <strong>4 or 6 implants</strong> are inserted concurrently </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >A <strong>pre-made, non-removable prosthesis is immediately loaded onto the implants</strong></li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"4\"\n        ><strong>Ideal</strong> for patients with multiple tooth loss or the need for complete prosthetics </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"5\"\n        >The treatment is most often performed under <strong>sedation</strong> — you simply fall asleep and wake up with a new, perfectly smile makeover </li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"6\"\n        >The result — a <strong>stable, aesthetic and functional smile immediately</strong></li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -343,9 +343,9 @@ window.LAVA_DATA = {
       {
         "id": "68da7a3c848b54b6ae384d34",
         "type": "comparison",
-        "preview": "assets/images/case_1_after_med_Alberts1p_C4_93c-680x450.avif",
-        "before": "assets/images/case_1_before_med_Alberts1pirms-680x450.avif",
-        "after": "assets/images/case_1_after_med_Alberts1p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
+        "before": "assets/images/case_1_before_med_alberts1pirms-680x450.avif",
+        "after": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
         "services": [
           {
             "id": "68d690133084d0c492a7916a",
@@ -361,9 +361,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa253c29120c3d5ab20f8e",
         "type": "comparison",
-        "preview": "assets/images/case_2_after_med_2p_C4_93c-7-680x450.avif",
+        "preview": "assets/images/case_2_after_med_2p_c4_93c-7-680x450.avif",
         "before": "assets/images/case_2_before_med_2pirms-4-680x450.avif",
-        "after": "assets/images/case_2_after_med_2p_C4_93c-7-680x450.avif",
+        "after": "assets/images/case_2_after_med_2p_c4_93c-7-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -375,9 +375,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa20c729120c3d5ab20c9a",
         "type": "comparison",
-        "preview": "assets/images/case_3_after_med_3p_C4_93c-1-680x450.avif",
+        "preview": "assets/images/case_3_after_med_3p_c4_93c-1-680x450.avif",
         "before": "assets/images/case_3_before_med_3pirms-1-680x450.avif",
-        "after": "assets/images/case_3_after_med_3p_C4_93c-1-680x450.avif",
+        "after": "assets/images/case_3_after_med_3p_c4_93c-1-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -389,9 +389,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1de229120c3d5ab20a7a",
         "type": "comparison",
-        "preview": "assets/images/case_4_after_med_1p_C4_93c-2-680x450.avif",
+        "preview": "assets/images/case_4_after_med_1p_c4_93c-2-680x450.avif",
         "before": "assets/images/case_4_before_med_1pirms-3-680x450.avif",
-        "after": "assets/images/case_4_after_med_1p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_4_after_med_1p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d690303084d0c492a791a3",
@@ -403,9 +403,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1f1a29120c3d5ab20b6a",
         "type": "comparison",
-        "preview": "assets/images/case_5_after_med_1p_C4_93c-3-680x450.avif",
+        "preview": "assets/images/case_5_after_med_1p_c4_93c-3-680x450.avif",
         "before": "assets/images/case_5_before_med_1pirms-4-680x450.avif",
-        "after": "assets/images/case_5_after_med_1p_C4_93c-3-680x450.avif",
+        "after": "assets/images/case_5_after_med_1p_c4_93c-3-680x450.avif",
         "services": [
           {
             "id": "68d690303084d0c492a791a3",
@@ -417,9 +417,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1bd429120c3d5ab20945",
         "type": "comparison",
-        "preview": "assets/images/case_6_preview_med_2p_C4_93c-1-680x450.avif",
+        "preview": "assets/images/case_6_preview_med_2p_c4_93c-1-680x450.avif",
         "before": "assets/images/case_6_before_med_2pirms-680x450.avif",
-        "after": "assets/images/case_6_after_med_2p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_6_after_med_2p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -435,9 +435,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa223529120c3d5ab20d8e",
         "type": "comparison",
-        "preview": "assets/images/case_7_after_med_3p_C4_93c-2-680x450.avif",
+        "preview": "assets/images/case_7_after_med_3p_c4_93c-2-680x450.avif",
         "before": "assets/images/case_7_before_med_3pirms-2-680x450.avif",
-        "after": "assets/images/case_7_after_med_3p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_7_after_med_3p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -449,9 +449,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa241629120c3d5ab20e88",
         "type": "comparison",
-        "preview": "assets/images/case_8_after_med_3p_C4_93c-3-680x450.avif",
+        "preview": "assets/images/case_8_after_med_3p_c4_93c-3-680x450.avif",
         "before": "assets/images/case_8_before_med_3pirms-3-680x450.avif",
-        "after": "assets/images/case_8_after_med_3p_C4_93c-3-680x450.avif",
+        "after": "assets/images/case_8_after_med_3p_c4_93c-3-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -467,9 +467,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa17eb29120c3d5ab207a2",
         "type": "comparison",
-        "preview": "assets/images/case_9_after_med_4p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_9_after_med_4p_c4_93c-680x450.avif",
         "before": "assets/images/case_9_before_med_4pirms-680x450.avif",
-        "after": "assets/images/case_9_after_med_4p_C4_93c-680x450.avif",
+        "after": "assets/images/case_9_after_med_4p_c4_93c-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -485,9 +485,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa262c29120c3d5ab21045",
         "type": "comparison",
-        "preview": "assets/images/case_10_after_med_1p_C4_93c-8-680x450.avif",
+        "preview": "assets/images/case_10_after_med_1p_c4_93c-8-680x450.avif",
         "before": "assets/images/case_10_before_med_1pirms-9-680x450.avif",
-        "after": "assets/images/case_10_after_med_1p_C4_93c-8-680x450.avif",
+        "after": "assets/images/case_10_after_med_1p_c4_93c-8-680x450.avif",
         "services": [
           {
             "id": "68d68fd33084d0c492a790e8",
@@ -503,7 +503,7 @@ window.LAVA_DATA = {
       {
         "id": "68fa274e29120c3d5ab21117",
         "type": "video",
-        "preview": "assets/images/case_11_preview_med_2p_C4_93c-8-680x450.avif",
+        "preview": "assets/images/case_11_preview_med_2p_c4_93c-8-680x450.avif",
         "before": "",
         "after": "",
         "services": [
@@ -521,9 +521,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa293029120c3d5ab2123c",
         "type": "comparison",
-        "preview": "assets/images/case_12_preview_med_6p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_12_preview_med_6p_c4_93c-680x450.avif",
         "before": "assets/images/case_12_before_med_3pirms-6-680x450.avif",
-        "after": "assets/images/case_12_after_med_3p_C4_93c-6-680x450.avif",
+        "after": "assets/images/case_12_after_med_3p_c4_93c-6-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -539,9 +539,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2a9b29120c3d5ab21325",
         "type": "comparison",
-        "preview": "assets/images/case_13_after_med_1p_C4_93c-11-680x450.avif",
+        "preview": "assets/images/case_13_after_med_1p_c4_93c-11-680x450.avif",
         "before": "assets/images/case_13_before_med_1pirms-12-680x450.avif",
-        "after": "assets/images/case_13_after_med_1p_C4_93c-11-680x450.avif",
+        "after": "assets/images/case_13_after_med_1p_c4_93c-11-680x450.avif",
         "services": [
           {
             "id": "68d6727f3084d0c492a78cc3",
@@ -553,9 +553,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2bac29120c3d5ab2142b",
         "type": "comparison",
-        "preview": "assets/images/case_14_preview_med_1p_C4_93c-12-680x450.avif",
+        "preview": "assets/images/case_14_preview_med_1p_c4_93c-12-680x450.avif",
         "before": "assets/images/case_14_before_med_1pirms-13-680x450.avif",
-        "after": "assets/images/case_14_after_med_1p_C4_93c-13-680x450.avif",
+        "after": "assets/images/case_14_after_med_1p_c4_93c-13-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -571,9 +571,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2c6829120c3d5ab214e6",
         "type": "comparison",
-        "preview": "assets/images/case_15_after_med_1p_C4_93c-14-680x450.avif",
+        "preview": "assets/images/case_15_after_med_1p_c4_93c-14-680x450.avif",
         "before": "assets/images/case_15_before_med_1pirms-14-680x450.avif",
-        "after": "assets/images/case_15_after_med_1p_C4_93c-14-680x450.avif",
+        "after": "assets/images/case_15_after_med_1p_c4_93c-14-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -589,9 +589,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2d5329120c3d5ab215d3",
         "type": "comparison",
-        "preview": "assets/images/case_16_after_med_2p_C4_93c-11-680x450.avif",
+        "preview": "assets/images/case_16_after_med_2p_c4_93c-11-680x450.avif",
         "before": "assets/images/case_16_before_med_2pirms-7-680x450.avif",
-        "after": "assets/images/case_16_after_med_2p_C4_93c-11-680x450.avif",
+        "after": "assets/images/case_16_after_med_2p_c4_93c-11-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -607,9 +607,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2e2a29120c3d5ab216c6",
         "type": "comparison",
-        "preview": "assets/images/case_17_after_med_1p_C4_93c-16-680x450.avif",
+        "preview": "assets/images/case_17_after_med_1p_c4_93c-16-680x450.avif",
         "before": "assets/images/case_17_before_med_1pirms-16-680x450.avif",
-        "after": "assets/images/case_17_after_med_1p_C4_93c-16-680x450.avif",
+        "after": "assets/images/case_17_after_med_1p_c4_93c-16-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -621,9 +621,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2efb29120c3d5ab21790",
         "type": "comparison",
-        "preview": "assets/images/case_18_after_med_3p_C4_93c-5-680x450.avif",
+        "preview": "assets/images/case_18_after_med_3p_c4_93c-5-680x450.avif",
         "before": "assets/images/case_18_before_med_3pirms-5-680x450.avif",
-        "after": "assets/images/case_18_after_med_3p_C4_93c-5-680x450.avif",
+        "after": "assets/images/case_18_after_med_3p_c4_93c-5-680x450.avif",
         "services": [
           {
             "id": "68d690133084d0c492a7916a",
@@ -643,7 +643,7 @@ window.LAVA_DATA = {
         "name": "Dr. Vladislavs Aleksejevs",
         "role": "Clinic Head, Dentist",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Aleksejevs_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_aleksejevs_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -651,7 +651,7 @@ window.LAVA_DATA = {
         "name": "Dr. Miroslav Skidan",
         "role": "Dentist, Surgeon",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Skidans_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_skidans_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -659,7 +659,7 @@ window.LAVA_DATA = {
         "name": "Dr. Raivis Bunkovskis",
         "role": "Dentist",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Bunkovskis_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_bunkovskis_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -667,7 +667,7 @@ window.LAVA_DATA = {
         "name": "Diāna Zamarina",
         "role": "Hygienist",
         "category": "dental",
-        "image": "assets/images/LavaDental_Diana_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_diana_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -675,7 +675,7 @@ window.LAVA_DATA = {
         "name": "Dr. Alisa Ļimonova",
         "role": "Dentist, Therapist",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Limonova_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_limonova_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -683,7 +683,7 @@ window.LAVA_DATA = {
         "name": "Dr. Vera Ostapova",
         "role": "Dentist, Therapist",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Ostapova_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_ostapova_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -691,7 +691,7 @@ window.LAVA_DATA = {
         "name": "Dr. Laura Aleksejeva",
         "role": "Dentist, Therapist",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Aleksejeva_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_aleksejeva_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -699,7 +699,7 @@ window.LAVA_DATA = {
         "name": "Dr. Polina Bite",
         "role": "Dentist, therapist",
         "category": "dental",
-        "image": "assets/images/LavaDental_Polina_72dpi-680x849.avif",
+        "image": "assets/images/lavadental_polina_72dpi-680x849.avif",
         "bodyHtml": ""
       },
       {
@@ -707,7 +707,7 @@ window.LAVA_DATA = {
         "name": "Ieva Granta",
         "role": "Hygienist",
         "category": "dental",
-        "image": "assets/images/LavaDental_IevaGranta_72dpi-2-680x850.avif",
+        "image": "assets/images/lavadental_ievagranta_72dpi-2-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -715,7 +715,7 @@ window.LAVA_DATA = {
         "name": "Jekaterina Suhova",
         "role": "Hygienist",
         "category": "dental",
-        "image": "assets/images/LavaDental_Jekaterina_72dpi-680x851.avif",
+        "image": "assets/images/lavadental_jekaterina_72dpi-680x851.avif",
         "bodyHtml": ""
       },
       {
@@ -723,7 +723,7 @@ window.LAVA_DATA = {
         "name": "Elīna Volkova",
         "role": "Treatment Plan Coordinator",
         "category": "admin",
-        "image": "assets/images/member_11_med_LavaDental_Elina_72dpi-680x850.avif",
+        "image": "assets/images/member_11_med_lavadental_elina_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -731,7 +731,7 @@ window.LAVA_DATA = {
         "name": "Viktorija Griševa",
         "role": "Administrator, Treatment Plans Coordinator",
         "category": "admin",
-        "image": "assets/images/member_12_med_LavaDental_Viktorija_72dpi-680x850.avif",
+        "image": "assets/images/member_12_med_lavadental_viktorija_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -739,7 +739,7 @@ window.LAVA_DATA = {
         "name": "Inga Vāvere",
         "role": "Administrator, treatment Plans Coordinator",
         "category": "admin",
-        "image": "assets/images/member_13_med_LavaDental_Inga_72dpi-680x850.avif",
+        "image": "assets/images/member_13_med_lavadental_inga_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -747,7 +747,7 @@ window.LAVA_DATA = {
         "name": "Līna Upīte",
         "role": "Human Resources Director (HRD)",
         "category": "admin",
-        "image": "assets/images/member_14_med_LavaDental_Lina_72dpi-680x850.avif",
+        "image": "assets/images/member_14_med_lavadental_lina_72dpi-680x850.avif",
         "bodyHtml": ""
       }
     ],
@@ -1030,7 +1030,7 @@ window.LAVA_DATA = {
         "id": "68d6727f3084d0c492a78cc3",
         "number": "01",
         "title": "Kompleksā diagnostika",
-        "image": "assets/images/service_1_large_Complex_20diagnostics-960x223.avif",
+        "image": "assets/images/service_1_large_complex_20diagnostics-960x223.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">Kompleksās diagnostikas laikā Tu uzzināsi, kā visērtāk un drošāk nokļūt līdz savam mērķim:</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >veseliem zobiem,</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >pārliecinošam smaidam,</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >trūkstošo zobu aizvietošanai.</li></ul><p style=\"text-align: left;\">Diagnostikas laikā mēs veicam:</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >pilnu mutes dobuma un zobu pārbaudi,</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >intraorālo skenēšanu ar inovatīvajiem 3Shape un iTero Lumina skeneriem, kas aprīkoti ar NIRI funkciju un mākslīgo intelektu – tas palīdz jau agrīni diagnosticēt kariesu,</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >3D datortomogrāfiju un digitālos rentgenuzņēmumus,</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"4\"\n        >portretfotogrāfijas smaida detalizētai analīzei.</li></ul><p style=\"text-align: left;\">Datu analīze un ārstēšanas plāns:</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >visi iegūtie dati tiek rūpīgi analizēti,</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >ārstu komanda konsīlija formātā izstrādā personalizētu ārstēšanas plānu ar skaidri noteiktiem termiņiem, izmaksām un prognozēm,</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >sagatavojam digitālo smaida dizainu (DSD), lai Tu jau pirms ārstēšanas redzētu gaidāmo rezultātu.</li></ul><p style=\"text-align: left;\">Plāna prezentācija:</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >notiek atsevišķā vizītē mierīgā gaisotnē, kuras laikā vari uzdot visus jautājumus,</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >mūsu koordinators parūpējas, lai visa ārstēšanas pieredze būtu komfortabla un pārdomāta.</li></ul><p>Svarīgākais – Tev nav jāraizējas ne par ko. Tu vari koncentrēties tikai uz būtiskāko – savu veselību.</p></div>",
         "link": "#services",
         "pricing": [],
@@ -1047,7 +1047,7 @@ window.LAVA_DATA = {
         "id": "68d68fd33084d0c492a790e8",
         "number": "02",
         "title": "Profesionālā higiēna",
-        "image": "assets/images/Hygien-600x820.avif",
+        "image": "assets/images/hygien-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p>Veseli zobi un starojošs smaids sākas ar rūpīgu higiēnu. LAVA Dental Studio izmanto jaunāko tehnoloģiju – EMS AIRFLOW® Prophylaxis Master.</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >Procedūra tiek veikta pēc Guided Biofilm Therapy protokola – droša, precīza un ļoti komfortabla metode.</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Efektīvi noņem aplikumu, pigmentu un zobakmeni, saglabājot veselus zobu audus.</li><li\n          class=\"\"\n          style=\"\"\n          value=\"3\"\n        >Rezultāts – tīri zobi, gludas virsmas un veselīgs smaids bez sāpēm un diskomforta.</li></ul><p>Profesionālo higiēnu iesakām veikt ik pēc 3–6 mēnešiem atbilstoši saviem ikdienas ieradumiem.</p></div>",
         "link": "#services",
         "pricing": [],
@@ -1064,7 +1064,7 @@ window.LAVA_DATA = {
         "id": "68d68ffe3084d0c492a7912f",
         "number": "03",
         "title": "Venīri",
-        "image": "assets/images/service_3_large_Veneers-600x820.avif",
+        "image": "assets/images/service_3_large_veneers-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p>Smaids, kas izstaro pārliecību. Mūsu venīri nav tikai zobārstniecības risinājums – tie ir īsti mākslas darbi.</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >Izgatavoti mūsu specializētajā laboratorijā <strong>Dubaijā (AAE)</strong>, kur tos ar īpašu rūpību veido pasaules labākie zobu keramiķi.</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Katrs venīrs ir individuāls roku darbs ar nevainojamu precizitāti.</li><li\n          class=\"\"\n          style=\"\"\n          value=\"3\"\n        >Izmantojam tikai ekskluzīvu <strong>feldšpātkeramiku</strong> [I1] un citas augstākās kvalitātes keramikas.</li><li\n          class=\"\"\n          style=\"\"\n          value=\"4\"\n        >Strādājam arī ar non-prep venīriem (lai noteiktu to piemērotību, nepieciešama kompleksā diagnostika).</li><li\n          class=\"\"\n          style=\"\"\n          value=\"5\"\n        >Rezultāts – dabisks un Tavai sejai perfekti piemērots smaids. </li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -1108,7 +1108,7 @@ window.LAVA_DATA = {
         "id": "68d690133084d0c492a7916a",
         "number": "04",
         "title": "Zobu implanti",
-        "image": "assets/images/Implants-600x820.avif",
+        "image": "assets/images/implants-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p>Atjaunots smaids ar dabīguma sajūtu. Implants ir drošs un ilgnoturīgs risinājums, kas kalpo kā mākslīga zoba sakne, uz kuras tiek stiprināts kronis vai tilts.</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >Strādājam ar pasaulē vadošo implantoloģijas sistēmu <strong>Straumann</strong> (Šveices kvalitāte, Nr. 1 implants pasaulē).</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Piedāvājam arī <strong>Neodent</strong>, kas īpaši piemērota <strong>ALL-ON-X</strong> procedūrai.</li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -1137,7 +1137,7 @@ window.LAVA_DATA = {
         "id": "68d690303084d0c492a791a3",
         "number": "05",
         "title": "ALL-ON-X",
-        "image": "assets/images/Aligners-600x820.avif",
+        "image": "assets/images/aligners-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        ><strong>Pilnīga smaida atjaunošana vienas dienas laikā.</strong></li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Operācijas laikā tiek <strong>izņemti visi bojātie zobi</strong> un vienlaikus ievietoti <strong>4 vai 6 implanti.</strong></li><li\n          class=\"\"\n          style=\"\"\n          value=\"3\"\n        >U<strong>z implantiem</strong> uzreiz tiek uzstādīta <strong>iepriekš izgatavota neizņemama protēze </strong>(immediate loading).</li><li\n          class=\"\"\n          style=\"\"\n          value=\"4\"\n        ><strong>Ideāli piemērots</strong> pacientiem, kas zaudējuši vairākus zobus vai kam nepieciešama pilnīga protezēšana.</li><li\n          class=\"\"\n          style=\"\"\n          value=\"5\"\n        >Procedūra visbiežāk notiek <strong>sedācijā</strong> – Tu vienkārši iemiedz un pamosties ar jaunu, perfekti atjaunotu smaidu.</li><li\n          class=\"\"\n          style=\"\"\n          value=\"6\"\n        >Rezultāts – <strong>stabils, estētisks un funkcionāli nevainojams smaids uzreiz.</strong></li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -1246,9 +1246,9 @@ window.LAVA_DATA = {
       {
         "id": "68da7a3c848b54b6ae384d34",
         "type": "comparison",
-        "preview": "assets/images/case_1_after_med_Alberts1p_C4_93c-680x450.avif",
-        "before": "assets/images/case_1_before_med_Alberts1pirms-680x450.avif",
-        "after": "assets/images/case_1_after_med_Alberts1p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
+        "before": "assets/images/case_1_before_med_alberts1pirms-680x450.avif",
+        "after": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
         "services": [
           {
             "id": "68d690133084d0c492a7916a",
@@ -1264,9 +1264,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa253c29120c3d5ab20f8e",
         "type": "comparison",
-        "preview": "assets/images/case_2_after_med_2p_C4_93c-7-680x450.avif",
+        "preview": "assets/images/case_2_after_med_2p_c4_93c-7-680x450.avif",
         "before": "assets/images/case_2_before_med_2pirms-4-680x450.avif",
-        "after": "assets/images/case_2_after_med_2p_C4_93c-7-680x450.avif",
+        "after": "assets/images/case_2_after_med_2p_c4_93c-7-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -1278,9 +1278,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa20c729120c3d5ab20c9a",
         "type": "comparison",
-        "preview": "assets/images/case_3_after_med_3p_C4_93c-1-680x450.avif",
+        "preview": "assets/images/case_3_after_med_3p_c4_93c-1-680x450.avif",
         "before": "assets/images/case_3_before_med_3pirms-1-680x450.avif",
-        "after": "assets/images/case_3_after_med_3p_C4_93c-1-680x450.avif",
+        "after": "assets/images/case_3_after_med_3p_c4_93c-1-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -1292,9 +1292,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1de229120c3d5ab20a7a",
         "type": "comparison",
-        "preview": "assets/images/case_4_after_med_1p_C4_93c-2-680x450.avif",
+        "preview": "assets/images/case_4_after_med_1p_c4_93c-2-680x450.avif",
         "before": "assets/images/case_4_before_med_1pirms-3-680x450.avif",
-        "after": "assets/images/case_4_after_med_1p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_4_after_med_1p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d690303084d0c492a791a3",
@@ -1306,9 +1306,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1f1a29120c3d5ab20b6a",
         "type": "comparison",
-        "preview": "assets/images/case_5_after_med_1p_C4_93c-3-680x450.avif",
+        "preview": "assets/images/case_5_after_med_1p_c4_93c-3-680x450.avif",
         "before": "assets/images/case_5_before_med_1pirms-4-680x450.avif",
-        "after": "assets/images/case_5_after_med_1p_C4_93c-3-680x450.avif",
+        "after": "assets/images/case_5_after_med_1p_c4_93c-3-680x450.avif",
         "services": [
           {
             "id": "68d690303084d0c492a791a3",
@@ -1320,9 +1320,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1bd429120c3d5ab20945",
         "type": "comparison",
-        "preview": "assets/images/case_6_preview_med_2p_C4_93c-1-680x450.avif",
+        "preview": "assets/images/case_6_preview_med_2p_c4_93c-1-680x450.avif",
         "before": "assets/images/case_6_before_med_2pirms-680x450.avif",
-        "after": "assets/images/case_6_after_med_2p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_6_after_med_2p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -1338,9 +1338,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa223529120c3d5ab20d8e",
         "type": "comparison",
-        "preview": "assets/images/case_7_after_med_3p_C4_93c-2-680x450.avif",
+        "preview": "assets/images/case_7_after_med_3p_c4_93c-2-680x450.avif",
         "before": "assets/images/case_7_before_med_3pirms-2-680x450.avif",
-        "after": "assets/images/case_7_after_med_3p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_7_after_med_3p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -1352,9 +1352,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa241629120c3d5ab20e88",
         "type": "comparison",
-        "preview": "assets/images/case_8_after_med_3p_C4_93c-3-680x450.avif",
+        "preview": "assets/images/case_8_after_med_3p_c4_93c-3-680x450.avif",
         "before": "assets/images/case_8_before_med_3pirms-3-680x450.avif",
-        "after": "assets/images/case_8_after_med_3p_C4_93c-3-680x450.avif",
+        "after": "assets/images/case_8_after_med_3p_c4_93c-3-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -1370,9 +1370,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa17eb29120c3d5ab207a2",
         "type": "comparison",
-        "preview": "assets/images/case_9_after_med_4p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_9_after_med_4p_c4_93c-680x450.avif",
         "before": "assets/images/case_9_before_med_4pirms-680x450.avif",
-        "after": "assets/images/case_9_after_med_4p_C4_93c-680x450.avif",
+        "after": "assets/images/case_9_after_med_4p_c4_93c-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -1388,9 +1388,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa262c29120c3d5ab21045",
         "type": "comparison",
-        "preview": "assets/images/case_10_after_med_1p_C4_93c-8-680x450.avif",
+        "preview": "assets/images/case_10_after_med_1p_c4_93c-8-680x450.avif",
         "before": "assets/images/case_10_before_med_1pirms-9-680x450.avif",
-        "after": "assets/images/case_10_after_med_1p_C4_93c-8-680x450.avif",
+        "after": "assets/images/case_10_after_med_1p_c4_93c-8-680x450.avif",
         "services": [
           {
             "id": "68d68fd33084d0c492a790e8",
@@ -1406,7 +1406,7 @@ window.LAVA_DATA = {
       {
         "id": "68fa274e29120c3d5ab21117",
         "type": "video",
-        "preview": "assets/images/case_11_preview_med_2p_C4_93c-8-680x450.avif",
+        "preview": "assets/images/case_11_preview_med_2p_c4_93c-8-680x450.avif",
         "before": "",
         "after": "",
         "services": [
@@ -1424,9 +1424,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa293029120c3d5ab2123c",
         "type": "comparison",
-        "preview": "assets/images/case_12_preview_med_6p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_12_preview_med_6p_c4_93c-680x450.avif",
         "before": "assets/images/case_12_before_med_3pirms-6-680x450.avif",
-        "after": "assets/images/case_12_after_med_3p_C4_93c-6-680x450.avif",
+        "after": "assets/images/case_12_after_med_3p_c4_93c-6-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -1442,9 +1442,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2a9b29120c3d5ab21325",
         "type": "comparison",
-        "preview": "assets/images/case_13_after_med_1p_C4_93c-11-680x450.avif",
+        "preview": "assets/images/case_13_after_med_1p_c4_93c-11-680x450.avif",
         "before": "assets/images/case_13_before_med_1pirms-12-680x450.avif",
-        "after": "assets/images/case_13_after_med_1p_C4_93c-11-680x450.avif",
+        "after": "assets/images/case_13_after_med_1p_c4_93c-11-680x450.avif",
         "services": [
           {
             "id": "68d6727f3084d0c492a78cc3",
@@ -1456,9 +1456,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2bac29120c3d5ab2142b",
         "type": "comparison",
-        "preview": "assets/images/case_14_preview_med_1p_C4_93c-12-680x450.avif",
+        "preview": "assets/images/case_14_preview_med_1p_c4_93c-12-680x450.avif",
         "before": "assets/images/case_14_before_med_1pirms-13-680x450.avif",
-        "after": "assets/images/case_14_after_med_1p_C4_93c-13-680x450.avif",
+        "after": "assets/images/case_14_after_med_1p_c4_93c-13-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -1474,9 +1474,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2c6829120c3d5ab214e6",
         "type": "comparison",
-        "preview": "assets/images/case_15_after_med_1p_C4_93c-14-680x450.avif",
+        "preview": "assets/images/case_15_after_med_1p_c4_93c-14-680x450.avif",
         "before": "assets/images/case_15_before_med_1pirms-14-680x450.avif",
-        "after": "assets/images/case_15_after_med_1p_C4_93c-14-680x450.avif",
+        "after": "assets/images/case_15_after_med_1p_c4_93c-14-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -1492,9 +1492,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2d5329120c3d5ab215d3",
         "type": "comparison",
-        "preview": "assets/images/case_16_after_med_2p_C4_93c-11-680x450.avif",
+        "preview": "assets/images/case_16_after_med_2p_c4_93c-11-680x450.avif",
         "before": "assets/images/case_16_before_med_2pirms-7-680x450.avif",
-        "after": "assets/images/case_16_after_med_2p_C4_93c-11-680x450.avif",
+        "after": "assets/images/case_16_after_med_2p_c4_93c-11-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -1510,9 +1510,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2e2a29120c3d5ab216c6",
         "type": "comparison",
-        "preview": "assets/images/case_17_after_med_1p_C4_93c-16-680x450.avif",
+        "preview": "assets/images/case_17_after_med_1p_c4_93c-16-680x450.avif",
         "before": "assets/images/case_17_before_med_1pirms-16-680x450.avif",
-        "after": "assets/images/case_17_after_med_1p_C4_93c-16-680x450.avif",
+        "after": "assets/images/case_17_after_med_1p_c4_93c-16-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -1524,9 +1524,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2efb29120c3d5ab21790",
         "type": "comparison",
-        "preview": "assets/images/case_18_after_med_3p_C4_93c-5-680x450.avif",
+        "preview": "assets/images/case_18_after_med_3p_c4_93c-5-680x450.avif",
         "before": "assets/images/case_18_before_med_3pirms-5-680x450.avif",
-        "after": "assets/images/case_18_after_med_3p_C4_93c-5-680x450.avif",
+        "after": "assets/images/case_18_after_med_3p_c4_93c-5-680x450.avif",
         "services": [
           {
             "id": "68d690133084d0c492a7916a",
@@ -1546,7 +1546,7 @@ window.LAVA_DATA = {
         "name": "Dr. Vladislavs Aleksejevs",
         "role": "Klīnikas vadītājs, zobārsts",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Aleksejevs_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_aleksejevs_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1554,7 +1554,7 @@ window.LAVA_DATA = {
         "name": "Dr. Miroslav Skidan",
         "role": "Zobārsts, implantologs",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Skidans_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_skidans_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1562,7 +1562,7 @@ window.LAVA_DATA = {
         "name": "Dr. Raivis Bunkovskis",
         "role": "Zobārsts, terapeits",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Bunkovskis_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_bunkovskis_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1570,7 +1570,7 @@ window.LAVA_DATA = {
         "name": "Diāna Zamarina",
         "role": "Zobu higiēniste",
         "category": "dental",
-        "image": "assets/images/LavaDental_Diana_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_diana_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1578,7 +1578,7 @@ window.LAVA_DATA = {
         "name": "Dr. Alise Ļimonova",
         "role": "Zobārste, terapeite",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Limonova_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_limonova_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1586,7 +1586,7 @@ window.LAVA_DATA = {
         "name": "Dr. Vera Ostapova",
         "role": "Zobārste, terapeite",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Ostapova_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_ostapova_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1594,7 +1594,7 @@ window.LAVA_DATA = {
         "name": "Dr. Laura Aleksejeva",
         "role": "Zobārste, terapeite",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Aleksejeva_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_aleksejeva_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1602,7 +1602,7 @@ window.LAVA_DATA = {
         "name": "Dr. Polina Bite",
         "role": "Zobārste, terapeite",
         "category": "dental",
-        "image": "assets/images/LavaDental_Polina_72dpi-680x849.avif",
+        "image": "assets/images/lavadental_polina_72dpi-680x849.avif",
         "bodyHtml": ""
       },
       {
@@ -1610,7 +1610,7 @@ window.LAVA_DATA = {
         "name": "Ieva Granta",
         "role": "Zobu higiēniste",
         "category": "dental",
-        "image": "assets/images/LavaDental_IevaGranta_72dpi-2-680x850.avif",
+        "image": "assets/images/lavadental_ievagranta_72dpi-2-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1618,7 +1618,7 @@ window.LAVA_DATA = {
         "name": "Jekaterina Suhova",
         "role": "Zobu higiēniste",
         "category": "dental",
-        "image": "assets/images/LavaDental_Jekaterina_72dpi-680x851.avif",
+        "image": "assets/images/lavadental_jekaterina_72dpi-680x851.avif",
         "bodyHtml": ""
       },
       {
@@ -1626,7 +1626,7 @@ window.LAVA_DATA = {
         "name": "Elīna Volkova",
         "role": "Administratore, ārstēšanas plāna koordinatore",
         "category": "admin",
-        "image": "assets/images/member_11_med_LavaDental_Elina_72dpi-680x850.avif",
+        "image": "assets/images/member_11_med_lavadental_elina_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1634,7 +1634,7 @@ window.LAVA_DATA = {
         "name": "Viktorija Griševa",
         "role": "Administratore, ārstēšanas plānu koordinatore",
         "category": "admin",
-        "image": "assets/images/member_12_med_LavaDental_Viktorija_72dpi-680x850.avif",
+        "image": "assets/images/member_12_med_lavadental_viktorija_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1642,7 +1642,7 @@ window.LAVA_DATA = {
         "name": "Inga Vāvere",
         "role": "Administratore, ārstēšanas plānu koordinātore",
         "category": "admin",
-        "image": "assets/images/member_13_med_LavaDental_Inga_72dpi-680x850.avif",
+        "image": "assets/images/member_13_med_lavadental_inga_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -1650,7 +1650,7 @@ window.LAVA_DATA = {
         "name": "Līna Upīte",
         "role": "Personāla vadītāja (HRD)",
         "category": "admin",
-        "image": "assets/images/member_14_med_LavaDental_Lina_72dpi-680x850.avif",
+        "image": "assets/images/member_14_med_lavadental_lina_72dpi-680x850.avif",
         "bodyHtml": ""
       }
     ],
@@ -1933,7 +1933,7 @@ window.LAVA_DATA = {
         "id": "68d6727f3084d0c492a78cc3",
         "number": "01",
         "title": "Комплексная диагностика",
-        "image": "assets/images/service_1_large_Complex_20diagnostics-960x223.avif",
+        "image": "assets/images/service_1_large_complex_20diagnostics-960x223.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">В ходе комплексной диагностики ты узнаешь, как наиболее удобно и безопасно достичь своей цели — какой бы она ни была:</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >Здоровые зубы</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Уверенная улыбка</li><li\n          class=\"\"\n          style=\"\"\n          value=\"3\"\n        >Замена отсутствующих зубов</li></ul><p style=\"text-align: left;\">Что мы делаем во время диагностики:</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >Полная проверка полости рта и зубов</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Интраоральное сканирование с помощью инновационных сканеров 3Shape и iTero Lumina, оснащенных функцией NIRI и искусственным интеллектом — это помогает в ранней диагностике кариеса</li><li\n          class=\"\"\n          style=\"\"\n          value=\"3\"\n        >3D компьютерная томография, цифровая рентгенография</li><li\n          class=\"\"\n          style=\"\"\n          value=\"4\"\n        >Портретные фотографии для анализа улыбки</li></ul><p style=\"text-align: left;\">Анализ данных и план лечения:</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >Все полученные данные тщательно анализируются</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Команда врачей в формате консилиума разрабатывает индивидуальный план лечения с конкретными сроками, финансами и прогнозами</li><li\n          class=\"\"\n          style=\"\"\n          value=\"3\"\n        >Мы готовим цифровой дизайн улыбки (DSD), и ты заранее сможешь увидеть ожидаемый конечный результат.</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"4\"\n        >Презентация плана:</li><li\n          class=\"\"\n          style=\"\"\n          value=\"5\"\n        >Проводится во время отдельного визита в непринужденной обстановке, где можно задать все интересующие вопросы</li><li\n          class=\"\"\n          style=\"\"\n          value=\"6\"\n        >Наш координатор позаботится о том, чтобы весь процесс лечения был комфортным и продуманным.</li></ul><p>Самое главное — тебе не нужно ни о чём беспокоиться. Ты можешь сосредоточиться только на самом важном — на своём здоровье.</p></div>",
         "link": "#services",
         "pricing": [],
@@ -1950,7 +1950,7 @@ window.LAVA_DATA = {
         "id": "68d68fd33084d0c492a790e8",
         "number": "02",
         "title": "Профессиональная гигиена",
-        "image": "assets/images/Hygien-600x820.avif",
+        "image": "assets/images/hygien-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">Здоровые зубы и лучезарная улыбка начинаются с тщательной гигиены. В LAVA Dental Studio используется новейшая технология — EMS AIRFLOW® Prophylaxis Master.</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >Процедура проводится по протоколу Guided Biofilm Therapy – это безопасный, точный и очень комфортный метод</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Эффективно удаляет зубной налет, пигменты и зубной камень, сохраняя здоровые ткани зубов</li><li\n          class=\"\"\n          style=\"\"\n          value=\"3\"\n        >Результат — чистая, гладкая и здоровая улыбка без боли и дискомфорта</li></ul><p style=\"text-align: left;\">Мы рекомендуем проводить профессиональную гигиену каждые 3–6 месяцев, в зависимости от твоих повседневных привычек.</p></div>",
         "link": "#services",
         "pricing": [],
@@ -1967,7 +1967,7 @@ window.LAVA_DATA = {
         "id": "68d68ffe3084d0c492a7912f",
         "number": "03",
         "title": "Виниры",
-        "image": "assets/images/service_3_large_Veneers-600x820.avif",
+        "image": "assets/images/service_3_large_veneers-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">Наши виниры — это не просто решение для зубов, это настоящие произведения искусства.</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        >Изготовлены в нашей специализированной лаборатории в <strong>Дубае (ОАЭ)</strong>, где они изготавливаются с особой тщательностью ведущими мировыми керамистами</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >Каждый винир изготавливается вручную с безупречной точностью</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >Мы используем только эксклюзивную <strong>полевошпатную керамику</strong> и другую керамику высшего качества</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"4\"\n        >Мы также работаем с винирами без препарирования (чтобы это выяснить, нужна комплексная диагностика)</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"5\"\n        >Результат — естественная улыбка, идеально подходящая твоему лицу и индивидуальности</li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -2011,7 +2011,7 @@ window.LAVA_DATA = {
         "id": "68d690133084d0c492a7916a",
         "number": "04",
         "title": "Зубные имплантаты",
-        "image": "assets/images/Implants-600x820.avif",
+        "image": "assets/images/implants-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><p style=\"text-align: left;\">Имплантат — это безопасное и долговечное решение, которое служит искусственным корнем зуба, на который крепится коронка или мост.</p><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"\"\n          value=\"1\"\n        >Мы работаем с ведущей в мире системой имплантологии <strong>Straumann</strong> (швейцарское качество, имплантат № 1 в мире)</li><li\n          class=\"\"\n          style=\"\"\n          value=\"2\"\n        >Мы также предлагаем <strong>Neodent</strong>, который особенно подходит для процедуры <strong>ALL-ON-X</strong></li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -2040,7 +2040,7 @@ window.LAVA_DATA = {
         "id": "68d690303084d0c492a791a3",
         "number": "05",
         "title": "ALL-ON-X",
-        "image": "assets/images/Aligners-600x820.avif",
+        "image": "assets/images/aligners-600x820.avif",
         "descriptionHtml": "<div class=\"payload-richtext\"><ul class=\"list-bullet\"><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"1\"\n        ><strong>Полное восстановление улыбки за один день</strong></li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"2\"\n        >Во время операции <strong>удаляются все поврежденные зубы </strong>и одновременно устанавливаются <strong>4 или 6 имплантатов.</strong></li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"3\"\n        >На имплантаты сразу устанавливается <strong>заранее изготовленный несъемный протез</strong> (immediate loading, немедленная нагрузка)</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"4\"\n        ><strong>Идеально подходит</strong> для пациентов с множественной потерей зубов или нуждающихся в полном протезировании</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"5\"\n        >Процедура чаще всего проводится <strong>под седацией</strong> — ты просто засыпаешь и просыпаешься с новой, идеально восстановленной улыбкой</li><li\n          class=\"\"\n          style=\"text-align: left;\"\n          value=\"6\"\n        >Результат<strong> </strong>—<strong> сразу стабильная, эстетичная и функциональная улыбка </strong></li></ul></div>",
         "link": "#services",
         "pricing": [],
@@ -2149,9 +2149,9 @@ window.LAVA_DATA = {
       {
         "id": "68da7a3c848b54b6ae384d34",
         "type": "comparison",
-        "preview": "assets/images/case_1_after_med_Alberts1p_C4_93c-680x450.avif",
-        "before": "assets/images/case_1_before_med_Alberts1pirms-680x450.avif",
-        "after": "assets/images/case_1_after_med_Alberts1p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
+        "before": "assets/images/case_1_before_med_alberts1pirms-680x450.avif",
+        "after": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
         "services": [
           {
             "id": "68d690133084d0c492a7916a",
@@ -2167,9 +2167,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa253c29120c3d5ab20f8e",
         "type": "comparison",
-        "preview": "assets/images/case_2_after_med_2p_C4_93c-7-680x450.avif",
+        "preview": "assets/images/case_2_after_med_2p_c4_93c-7-680x450.avif",
         "before": "assets/images/case_2_before_med_2pirms-4-680x450.avif",
-        "after": "assets/images/case_2_after_med_2p_C4_93c-7-680x450.avif",
+        "after": "assets/images/case_2_after_med_2p_c4_93c-7-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -2181,9 +2181,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa20c729120c3d5ab20c9a",
         "type": "comparison",
-        "preview": "assets/images/case_3_after_med_3p_C4_93c-1-680x450.avif",
+        "preview": "assets/images/case_3_after_med_3p_c4_93c-1-680x450.avif",
         "before": "assets/images/case_3_before_med_3pirms-1-680x450.avif",
-        "after": "assets/images/case_3_after_med_3p_C4_93c-1-680x450.avif",
+        "after": "assets/images/case_3_after_med_3p_c4_93c-1-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -2195,9 +2195,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1de229120c3d5ab20a7a",
         "type": "comparison",
-        "preview": "assets/images/case_4_after_med_1p_C4_93c-2-680x450.avif",
+        "preview": "assets/images/case_4_after_med_1p_c4_93c-2-680x450.avif",
         "before": "assets/images/case_4_before_med_1pirms-3-680x450.avif",
-        "after": "assets/images/case_4_after_med_1p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_4_after_med_1p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d690303084d0c492a791a3",
@@ -2209,9 +2209,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1f1a29120c3d5ab20b6a",
         "type": "comparison",
-        "preview": "assets/images/case_5_after_med_1p_C4_93c-3-680x450.avif",
+        "preview": "assets/images/case_5_after_med_1p_c4_93c-3-680x450.avif",
         "before": "assets/images/case_5_before_med_1pirms-4-680x450.avif",
-        "after": "assets/images/case_5_after_med_1p_C4_93c-3-680x450.avif",
+        "after": "assets/images/case_5_after_med_1p_c4_93c-3-680x450.avif",
         "services": [
           {
             "id": "68d690303084d0c492a791a3",
@@ -2223,9 +2223,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa1bd429120c3d5ab20945",
         "type": "comparison",
-        "preview": "assets/images/case_6_preview_med_2p_C4_93c-1-680x450.avif",
+        "preview": "assets/images/case_6_preview_med_2p_c4_93c-1-680x450.avif",
         "before": "assets/images/case_6_before_med_2pirms-680x450.avif",
-        "after": "assets/images/case_6_after_med_2p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_6_after_med_2p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -2241,9 +2241,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa223529120c3d5ab20d8e",
         "type": "comparison",
-        "preview": "assets/images/case_7_after_med_3p_C4_93c-2-680x450.avif",
+        "preview": "assets/images/case_7_after_med_3p_c4_93c-2-680x450.avif",
         "before": "assets/images/case_7_before_med_3pirms-2-680x450.avif",
-        "after": "assets/images/case_7_after_med_3p_C4_93c-2-680x450.avif",
+        "after": "assets/images/case_7_after_med_3p_c4_93c-2-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -2255,9 +2255,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa241629120c3d5ab20e88",
         "type": "comparison",
-        "preview": "assets/images/case_8_after_med_3p_C4_93c-3-680x450.avif",
+        "preview": "assets/images/case_8_after_med_3p_c4_93c-3-680x450.avif",
         "before": "assets/images/case_8_before_med_3pirms-3-680x450.avif",
-        "after": "assets/images/case_8_after_med_3p_C4_93c-3-680x450.avif",
+        "after": "assets/images/case_8_after_med_3p_c4_93c-3-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -2273,9 +2273,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa17eb29120c3d5ab207a2",
         "type": "comparison",
-        "preview": "assets/images/case_9_after_med_4p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_9_after_med_4p_c4_93c-680x450.avif",
         "before": "assets/images/case_9_before_med_4pirms-680x450.avif",
-        "after": "assets/images/case_9_after_med_4p_C4_93c-680x450.avif",
+        "after": "assets/images/case_9_after_med_4p_c4_93c-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -2291,9 +2291,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa262c29120c3d5ab21045",
         "type": "comparison",
-        "preview": "assets/images/case_10_after_med_1p_C4_93c-8-680x450.avif",
+        "preview": "assets/images/case_10_after_med_1p_c4_93c-8-680x450.avif",
         "before": "assets/images/case_10_before_med_1pirms-9-680x450.avif",
-        "after": "assets/images/case_10_after_med_1p_C4_93c-8-680x450.avif",
+        "after": "assets/images/case_10_after_med_1p_c4_93c-8-680x450.avif",
         "services": [
           {
             "id": "68d68fd33084d0c492a790e8",
@@ -2309,7 +2309,7 @@ window.LAVA_DATA = {
       {
         "id": "68fa274e29120c3d5ab21117",
         "type": "video",
-        "preview": "assets/images/case_11_preview_med_2p_C4_93c-8-680x450.avif",
+        "preview": "assets/images/case_11_preview_med_2p_c4_93c-8-680x450.avif",
         "before": "",
         "after": "",
         "services": [
@@ -2327,9 +2327,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa293029120c3d5ab2123c",
         "type": "comparison",
-        "preview": "assets/images/case_12_preview_med_6p_C4_93c-680x450.avif",
+        "preview": "assets/images/case_12_preview_med_6p_c4_93c-680x450.avif",
         "before": "assets/images/case_12_before_med_3pirms-6-680x450.avif",
-        "after": "assets/images/case_12_after_med_3p_C4_93c-6-680x450.avif",
+        "after": "assets/images/case_12_after_med_3p_c4_93c-6-680x450.avif",
         "services": [
           {
             "id": "68d6907a3084d0c492a79248",
@@ -2345,9 +2345,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2a9b29120c3d5ab21325",
         "type": "comparison",
-        "preview": "assets/images/case_13_after_med_1p_C4_93c-11-680x450.avif",
+        "preview": "assets/images/case_13_after_med_1p_c4_93c-11-680x450.avif",
         "before": "assets/images/case_13_before_med_1pirms-12-680x450.avif",
-        "after": "assets/images/case_13_after_med_1p_C4_93c-11-680x450.avif",
+        "after": "assets/images/case_13_after_med_1p_c4_93c-11-680x450.avif",
         "services": [
           {
             "id": "68d6727f3084d0c492a78cc3",
@@ -2359,9 +2359,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2bac29120c3d5ab2142b",
         "type": "comparison",
-        "preview": "assets/images/case_14_preview_med_1p_C4_93c-12-680x450.avif",
+        "preview": "assets/images/case_14_preview_med_1p_c4_93c-12-680x450.avif",
         "before": "assets/images/case_14_before_med_1pirms-13-680x450.avif",
-        "after": "assets/images/case_14_after_med_1p_C4_93c-13-680x450.avif",
+        "after": "assets/images/case_14_after_med_1p_c4_93c-13-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -2377,9 +2377,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2c6829120c3d5ab214e6",
         "type": "comparison",
-        "preview": "assets/images/case_15_after_med_1p_C4_93c-14-680x450.avif",
+        "preview": "assets/images/case_15_after_med_1p_c4_93c-14-680x450.avif",
         "before": "assets/images/case_15_before_med_1pirms-14-680x450.avif",
-        "after": "assets/images/case_15_after_med_1p_C4_93c-14-680x450.avif",
+        "after": "assets/images/case_15_after_med_1p_c4_93c-14-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -2395,9 +2395,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2d5329120c3d5ab215d3",
         "type": "comparison",
-        "preview": "assets/images/case_16_after_med_2p_C4_93c-11-680x450.avif",
+        "preview": "assets/images/case_16_after_med_2p_c4_93c-11-680x450.avif",
         "before": "assets/images/case_16_before_med_2pirms-7-680x450.avif",
-        "after": "assets/images/case_16_after_med_2p_C4_93c-11-680x450.avif",
+        "after": "assets/images/case_16_after_med_2p_c4_93c-11-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -2413,9 +2413,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2e2a29120c3d5ab216c6",
         "type": "comparison",
-        "preview": "assets/images/case_17_after_med_1p_C4_93c-16-680x450.avif",
+        "preview": "assets/images/case_17_after_med_1p_c4_93c-16-680x450.avif",
         "before": "assets/images/case_17_before_med_1pirms-16-680x450.avif",
-        "after": "assets/images/case_17_after_med_1p_C4_93c-16-680x450.avif",
+        "after": "assets/images/case_17_after_med_1p_c4_93c-16-680x450.avif",
         "services": [
           {
             "id": "68d68ffe3084d0c492a7912f",
@@ -2427,9 +2427,9 @@ window.LAVA_DATA = {
       {
         "id": "68fa2efb29120c3d5ab21790",
         "type": "comparison",
-        "preview": "assets/images/case_18_after_med_3p_C4_93c-5-680x450.avif",
+        "preview": "assets/images/case_18_after_med_3p_c4_93c-5-680x450.avif",
         "before": "assets/images/case_18_before_med_3pirms-5-680x450.avif",
-        "after": "assets/images/case_18_after_med_3p_C4_93c-5-680x450.avif",
+        "after": "assets/images/case_18_after_med_3p_c4_93c-5-680x450.avif",
         "services": [
           {
             "id": "68d690133084d0c492a7916a",
@@ -2449,7 +2449,7 @@ window.LAVA_DATA = {
         "name": "Доктор Владислав Алексеев",
         "role": "Руководитель клиники, стоматолог",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Aleksejevs_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_aleksejevs_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2457,7 +2457,7 @@ window.LAVA_DATA = {
         "name": "Доктор Мирослав Скидан",
         "role": "Стоматолог, имплантолог",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Skidans_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_skidans_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2465,7 +2465,7 @@ window.LAVA_DATA = {
         "name": "Доктор Райвис Бунковскис",
         "role": "Стоматолог",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Bunkovskis_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_bunkovskis_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2473,7 +2473,7 @@ window.LAVA_DATA = {
         "name": "Диана Замарина",
         "role": "Гигиенист",
         "category": "dental",
-        "image": "assets/images/LavaDental_Diana_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_diana_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2481,7 +2481,7 @@ window.LAVA_DATA = {
         "name": "Доктор Алиса Лимонова",
         "role": "Стоматолог, терапевт",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Limonova_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_limonova_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2489,7 +2489,7 @@ window.LAVA_DATA = {
         "name": "Доктор Вера Остапова",
         "role": "Стоматолог, терапевт",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Ostapova_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_ostapova_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2497,7 +2497,7 @@ window.LAVA_DATA = {
         "name": "Доктор Лаура Алексеева",
         "role": "Стоматолог, терапевт",
         "category": "dental",
-        "image": "assets/images/LavaDental_Dr_Aleksejeva_72dpi-680x850.avif",
+        "image": "assets/images/lavadental_dr_aleksejeva_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2505,7 +2505,7 @@ window.LAVA_DATA = {
         "name": "Доктор Полина Бите",
         "role": "Cтоматолог, терапевт",
         "category": "dental",
-        "image": "assets/images/LavaDental_Polina_72dpi-680x849.avif",
+        "image": "assets/images/lavadental_polina_72dpi-680x849.avif",
         "bodyHtml": ""
       },
       {
@@ -2513,7 +2513,7 @@ window.LAVA_DATA = {
         "name": "Иева Гранта",
         "role": "Cтоматолог-гигиенист",
         "category": "dental",
-        "image": "assets/images/LavaDental_IevaGranta_72dpi-2-680x850.avif",
+        "image": "assets/images/lavadental_ievagranta_72dpi-2-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2521,7 +2521,7 @@ window.LAVA_DATA = {
         "name": "Екатерина Сухова",
         "role": "Гигиенист",
         "category": "dental",
-        "image": "assets/images/LavaDental_Jekaterina_72dpi-680x851.avif",
+        "image": "assets/images/lavadental_jekaterina_72dpi-680x851.avif",
         "bodyHtml": ""
       },
       {
@@ -2529,7 +2529,7 @@ window.LAVA_DATA = {
         "name": "Элина Валкова",
         "role": "Aдминистратор, координатор планов лечения",
         "category": "admin",
-        "image": "assets/images/member_11_med_LavaDental_Elina_72dpi-680x850.avif",
+        "image": "assets/images/member_11_med_lavadental_elina_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2537,7 +2537,7 @@ window.LAVA_DATA = {
         "name": "Виктория Гришева",
         "role": "Aдминистратор, координатор планов лечения",
         "category": "admin",
-        "image": "assets/images/member_12_med_LavaDental_Viktorija_72dpi-680x850.avif",
+        "image": "assets/images/member_12_med_lavadental_viktorija_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2545,7 +2545,7 @@ window.LAVA_DATA = {
         "name": "Инга Вавере",
         "role": "Aдминистратор, координатор планов лечения",
         "category": "admin",
-        "image": "assets/images/member_13_med_LavaDental_Inga_72dpi-680x850.avif",
+        "image": "assets/images/member_13_med_lavadental_inga_72dpi-680x850.avif",
         "bodyHtml": ""
       },
       {
@@ -2553,7 +2553,7 @@ window.LAVA_DATA = {
         "name": "Лина Упите",
         "role": "Mенеджер по персоналу (HRD)",
         "category": "admin",
-        "image": "assets/images/member_14_med_LavaDental_Lina_72dpi-680x850.avif",
+        "image": "assets/images/member_14_med_lavadental_lina_72dpi-680x850.avif",
         "bodyHtml": ""
       }
     ],
