@@ -270,6 +270,97 @@
     startAutoplay();
   }
 
+  // 4b. Ultra-Smooth Luxury Process Carousel
+  function initProcessCarousel() {
+    const carousel = document.getElementById('about-process-carousel');
+    if (!carousel) return;
+
+    const slides = carousel.querySelectorAll('.about-process-carousel__slide');
+    const dots = carousel.querySelectorAll('.about-process-carousel__dot');
+    const prevBtn = carousel.querySelector('.about-process-carousel__nav--prev');
+    const nextBtn = carousel.querySelector('.about-process-carousel__nav--next');
+    if (!slides.length) return;
+
+    let currentIndex = 0;
+    let autoplayTimer = null;
+    const autoplayDuration = 4500;
+
+    function goToSlide(index) {
+      if (index < 0) index = slides.length - 1;
+      if (index >= slides.length) index = 0;
+      currentIndex = index;
+
+      slides.forEach((slide, i) => {
+        slide.classList.toggle('is-active', i === currentIndex);
+      });
+
+      dots.forEach((dot, i) => {
+        dot.classList.toggle('is-active', i === currentIndex);
+      });
+    }
+
+    function startAutoplay() {
+      stopAutoplay();
+      autoplayTimer = setInterval(() => {
+        goToSlide(currentIndex + 1);
+      }, autoplayDuration);
+    }
+
+    function stopAutoplay() {
+      if (autoplayTimer) {
+        clearInterval(autoplayTimer);
+        autoplayTimer = null;
+      }
+    }
+
+    if (prevBtn) {
+      prevBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        goToSlide(currentIndex - 1);
+        startAutoplay();
+      });
+    }
+
+    if (nextBtn) {
+      nextBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        goToSlide(currentIndex + 1);
+        startAutoplay();
+      });
+    }
+
+    dots.forEach(dot => {
+      dot.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const idx = parseInt(dot.getAttribute('data-slide') || '0', 10);
+        goToSlide(idx);
+        startAutoplay();
+      });
+    });
+
+    let startX = 0;
+    carousel.addEventListener('touchstart', (e) => {
+      startX = e.touches[0].clientX;
+      stopAutoplay();
+    }, { passive: true });
+
+    carousel.addEventListener('touchend', (e) => {
+      const endX = e.changedTouches[0].clientX;
+      const diff = startX - endX;
+      if (Math.abs(diff) > 40) {
+        if (diff > 0) goToSlide(currentIndex + 1);
+        else goToSlide(currentIndex - 1);
+      }
+      startAutoplay();
+    }, { passive: true });
+
+    carousel.addEventListener('mouseenter', stopAutoplay);
+    carousel.addEventListener('mouseleave', startAutoplay);
+
+    goToSlide(0);
+    startAutoplay();
+  }
+
   // 5. Portfolio Section
   function initPortfolio() {
     const data = window.LAVA_DATA[currentLang] || window.LAVA_DATA.en;
@@ -983,6 +1074,7 @@
     initContourCanvas();
     initWheelBlock();
     initManifestCarousel();
+    initProcessCarousel();
     initPortfolio();
     initServices();
     initTeam();
