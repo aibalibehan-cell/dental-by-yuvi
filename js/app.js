@@ -173,18 +173,39 @@
       });
 
       items.forEach((item, idx) => {
+        const title = item.querySelector('.wheel-block-wheel__item-title');
+        const desc = item.querySelector('.wheel-block-wheel__item-description');
         if (idx + 1 === nr) {
           item.classList.add('wheel-block-wheel__item--active');
           item.style.opacity = '1';
+          item.style.visibility = 'visible';
           item.style.pointerEvents = 'auto';
+          if (title) {
+            title.style.opacity = '1';
+            title.style.visibility = 'visible';
+          }
+          if (desc) {
+            desc.style.opacity = '1';
+            desc.style.visibility = 'visible';
+          }
         } else {
           item.classList.remove('wheel-block-wheel__item--active');
           item.style.opacity = '0';
+          item.style.visibility = 'hidden';
           item.style.pointerEvents = 'none';
+          if (title) {
+            title.style.opacity = '0';
+            title.style.visibility = 'hidden';
+          }
+          if (desc) {
+            desc.style.opacity = '0';
+            desc.style.visibility = 'hidden';
+          }
         }
       });
     }
 
+    // Set Step 1 visible immediately on load
     setStep(1);
 
     steps.forEach((step, idx) => {
@@ -200,7 +221,7 @@
             if (nr) setStep(nr);
           }
         });
-      }, { threshold: 0.5, rootMargin: '-20% 0px -20% 0px' });
+      }, { threshold: 0, rootMargin: '-40% 0px -40% 0px' });
 
       triggers.forEach(t => observer.observe(t));
     }
@@ -270,95 +291,34 @@
     startAutoplay();
   }
 
-  // 4b. Ultra-Smooth Luxury Process Carousel
-  function initProcessCarousel() {
-    const carousel = document.getElementById('about-process-carousel');
-    if (!carousel) return;
+  // 4b. Process Carousel Scroll Animation Fallback (if native CSS animation-timeline is not active)
+  function initProcessCarouselFallback() {
+    const items = document.querySelector('.about-process-carousel__items');
+    const spacer = document.querySelector('.about-process-carousel-spacer');
+    if (!items || !spacer) return;
 
-    const slides = carousel.querySelectorAll('.about-process-carousel__slide');
-    const dots = carousel.querySelectorAll('.about-process-carousel__dot');
-    const prevBtn = carousel.querySelector('.about-process-carousel__nav--prev');
-    const nextBtn = carousel.querySelector('.about-process-carousel__nav--next');
-    if (!slides.length) return;
-
-    let currentIndex = 0;
-    let autoplayTimer = null;
-    const autoplayDuration = 4500;
-
-    function goToSlide(index) {
-      if (index < 0) index = slides.length - 1;
-      if (index >= slides.length) index = 0;
-      currentIndex = index;
-
-      slides.forEach((slide, i) => {
-        slide.classList.toggle('is-active', i === currentIndex);
-      });
-
-      dots.forEach((dot, i) => {
-        dot.classList.toggle('is-active', i === currentIndex);
-      });
+    // In modern browsers supporting CSS animation-timeline, CSS handles it directly with zero JS overhead
+    if (window.CSS && CSS.supports && (CSS.supports('animation-timeline', 'scroll()') || CSS.supports('animation-timeline', '--test'))) {
+      return;
     }
 
-    function startAutoplay() {
-      stopAutoplay();
-      autoplayTimer = setInterval(() => {
-        goToSlide(currentIndex + 1);
-      }, autoplayDuration);
+    function onScroll() {
+      const rect = spacer.getBoundingClientRect();
+      const spacerTop = rect.top;
+      const spacerHeight = rect.height;
+      const windowHeight = window.innerHeight;
+
+      const scrollDist = -spacerTop;
+      const totalDist = spacerHeight - windowHeight;
+      if (totalDist <= 0) return;
+
+      const progress = Math.max(0, Math.min(1, scrollDist / totalDist));
+      const translateVW = -400 * progress;
+      items.style.transform = `translateX(${translateVW}vw)`;
     }
 
-    function stopAutoplay() {
-      if (autoplayTimer) {
-        clearInterval(autoplayTimer);
-        autoplayTimer = null;
-      }
-    }
-
-    if (prevBtn) {
-      prevBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        goToSlide(currentIndex - 1);
-        startAutoplay();
-      });
-    }
-
-    if (nextBtn) {
-      nextBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        goToSlide(currentIndex + 1);
-        startAutoplay();
-      });
-    }
-
-    dots.forEach(dot => {
-      dot.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const idx = parseInt(dot.getAttribute('data-slide') || '0', 10);
-        goToSlide(idx);
-        startAutoplay();
-      });
-    });
-
-    let startX = 0;
-    carousel.addEventListener('touchstart', (e) => {
-      startX = e.touches[0].clientX;
-      stopAutoplay();
-    }, { passive: true });
-
-    carousel.addEventListener('touchend', (e) => {
-      const endX = e.changedTouches[0].clientX;
-      const diff = startX - endX;
-      if (Math.abs(diff) > 40) {
-        if (diff > 0) goToSlide(currentIndex + 1);
-        else goToSlide(currentIndex - 1);
-      }
-      startAutoplay();
-    }, { passive: true });
-
-    carousel.addEventListener('mouseenter', stopAutoplay);
-    carousel.addEventListener('mouseleave', startAutoplay);
-
-    goToSlide(0);
-    startAutoplay();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
   }
 
   // 5. Portfolio Section
@@ -1074,7 +1034,7 @@
     initContourCanvas();
     initWheelBlock();
     initManifestCarousel();
-    initProcessCarousel();
+    initProcessCarouselFallback();
     initPortfolio();
     initServices();
     initTeam();

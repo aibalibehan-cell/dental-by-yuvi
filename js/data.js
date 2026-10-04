@@ -51,33 +51,33 @@ window.LAVA_DATA = {
       "features": [
         {
           "num": "01",
-          "title": "Comprehensive diagnostics",
-          "desc": "Full oral cavity 3D scanning, computed tomography and digital smile design (DSD)."
+          "title": "More personal than personal",
+          "description": "After a complex diagnosis, each patient is assigned a Treatment Plan Coordinator, or Personal Concierge. He or she takes care to ensure that the entire process is flawless and personalised — from scheduling appointments to the tiniest details that make your experience enjoyable and give you peace of mind."
         },
         {
           "num": "02",
-          "title": "Painless & calm",
-          "desc": "Treatment under sedation or anaesthesia overseen by leading specialists."
+          "title": "A result you can see in advance",
+          "description": "We create a 3D digital smile design before treatment even starts. Not only do you know what the end result will be, but you can see it, influence it, and feel confident about every next step."
         },
         {
           "num": "03",
-          "title": "Premium materials",
-          "desc": "World-class implants (Straumann, Neodent) and biocompatible Swiss ceramics."
+          "title": "Peace and safety during every appointment",
+          "description": "We believe that treatment starts with a feeling. The light, interior design, silence and the attitude of our team create an environment in which you can relieve stress and forget any previous perceptions of dentistry as an unpleasant experience."
         },
         {
           "num": "04",
-          "title": "Personal coordinator",
-          "desc": "Dedicated treatment coordinator who assists with scheduling, questions, and budgets."
+          "title": "Movie experience in a dentist’s chair",
+          "description": "We transform time in the dentist’s chair into a pleasurable experience — choose your favourite movie, TV series or educational content and let the treatment flow seamlessly."
         },
         {
           "num": "05",
-          "title": "Aesthetic perfection",
-          "desc": "Microscopic precision for natural-looking veneers, crowns, and smile makeovers."
+          "title": "All in one place",
+          "description": "What matters to us is that you save not only money, but also time and energy. That’s why all the relevant specialists — therapists, prosthodontists, endodontist, implantologists, aestheticians and hygienists are all here under one roof at LAVA dental. This means a faster, more precise and more efficient treatment process."
         },
         {
           "num": "06",
-          "title": "Speed & reliability",
-          "desc": "ALL-ON-X same-day permanent smile restorations with immediate loading."
+          "title": "Complete privacy",
+          "description": "Treatment takes place in quiet, enclosed premises. Here you can feel safe, free and comfortable, away from the gaze of others or any disturbance."
         }
       ]
     },
@@ -971,33 +971,33 @@ window.LAVA_DATA = {
       "features": [
         {
           "num": "01",
-          "title": "Kompleksā diagnostika",
-          "desc": "Pilna mutes dobuma 3D skenēšana, datortomogrāfija un digitālais smaida dizains (DSD)."
+          "title": "Personiskāk par personisku",
+          "description": "Pēc kompleksās diagnostikas katram pacientam tiek nozīmēts ārstēšanas plāna koordinators jeb personīgais konsjeržs, kas rūpējas, lai viss process būtu nevainojams un personalizēts — sākot ar vizīšu plānošanu līdz pat mazākajām detaļām, kas padara Tavu pieredzi patīkamu un mierīgu."
         },
         {
           "num": "02",
-          "title": "Nesāpīgi un mierīgi",
-          "desc": "Ārstēšana sedācijā vai narkozē vadošo anesteziologu uzraudzībā."
+          "title": "Rezultāts, ko vari redzēt jau iepriekš",
+          "description": "Mēs izstrādājam 3D digitālo smaida dizainu vēl pirms ārstēšanas sākšanas. Tu ne tikai redzi, kāds būs galarezultāts, bet vari to ietekmēt un justies droši par katru nākamo soli."
         },
         {
           "num": "03",
-          "title": "Augstākās klases materiāli",
-          "desc": "Pasaules līmeņa implanti (Straumann, Neodent) un Šveices keramika."
+          "title": "Miers un drošība katrā vizītē",
+          "description": "Mēs ticam, ka ārstēšana sākas ar sajūtām. Gaisma, interjera dizains, klusums un mūsu komandas attieksme veido vidi, kurā vari atbrīvoties no stresa un aizmirst par līdzšinējiem priekšstatiem par zobārstniecību kā nepatīkamu pieredzi."
         },
         {
           "num": "04",
-          "title": "Personīgais koordinators",
-          "desc": "Ārstēšanas plāna koordinators palīdzēs plānot vizītes un izmaksas."
+          "title": "Kino pieredze ārstniecības krēslā",
+          "description": "Laiks krēslā pārtop patīkamā atpūtas brīdī — izvēlies savu iecienīto filmu, seriālu vai izglītojošu saturu un ļauj ārstēšanai ritēt nemanāmi."
         },
         {
           "num": "05",
-          "title": "Estētiskā izcilība",
-          "desc": "Mikroskopa precizitāte dabiskiem venīriem un kroņiem."
+          "title": "Viss vienuviet",
+          "description": "Mums ir svarīgi, lai Tu ietaupītu ne tikai naudu, bet arī laiku un enerģiju. Terapeits, protēzists, endodontists, implantologs, estētikas speciālists un higiēnists ir tepat — vienuviet LAVA dental. Tas nozīmē ātrāku, precīzāku un efektīvāku ārstēšanas procesu."
         },
         {
           "num": "06",
-          "title": "Ātrums un drošība",
-          "desc": "ALL-ON-X viena soļa risinājumi ar tūlītēju fiksēto protēzi."
+          "title": "Pilnīgs privātums",
+          "description": "Ārstēšana notiek mierīgās, slēgtās telpās, nevis atvērtās zonās. Te Tu vari justies droši, brīvi un komfortabli – netraucēts un pasargāts no apkārtējo skatieniem."
         }
       ]
     },
@@ -1884,40 +1884,40 @@ window.LAVA_DATA = {
     "about": {
       "title": "Мы меняем опыт и помогаем вернуть уверенность",
       "subtitle": "Чтобы вы чувствовали себя комфортно на каждом шагу.",
-      "featuresHeading": "Ваша улыбка начинается здесь",
+      "featuresHeading": "Твоя улыбка начинается здесь",
       "applyTitle": "Начните с комплексной диагностики «Идеальная улыбка»",
       "applySubtitle": "Индивидуальный подход, новейшие технологии и ясность на каждом этапе.",
       "applyCta": "Записаться на прием",
       "features": [
         {
           "num": "01",
-          "title": "Комплексная диагностика",
-          "desc": "Полное 3D-сканирование полости рта, компьютерная томография и цифровой дизайн улыбки (DSD)."
+          "title": "Более личное, чем личное",
+          "description": "После комплексной диагностики каждому пациенту назначается координатор плана лечения, или персональный консьерж. Консьерж обеспечивает безупречность и индивидуальный подход на протяжении всего процесса — от планирования визитов до мельчайших деталей, которые сделают твой опыт приятным и спокойным."
         },
         {
           "num": "02",
-          "title": "Безболезненно и спокойно",
-          "desc": "Лечение под седацией или наркозом под наблюдением ведущих специалистов."
+          "title": "Результат, который ты можешь увидеть заранее",
+          "description": "Мы создаём 3D-цифровой дизайн улыбки ещё до начала лечения. Ты не только знаешь, каким будет конечный результат, но и видишь его, можешь на него повлиять и быть уверенными в каждом следующем шаге."
         },
         {
           "num": "03",
-          "title": "Премиальные материалы",
-          "desc": "Имплантаты мирового уровня (Straumann, Neodent) и швейцарская биосовместимая керамика."
+          "title": "Спокойствие и безопасность при каждом визите",
+          "description": "Мы верим, что лечение начинается с чувств. Свет, дизайн интерьера, тишина и доброжелательное отношение нашей команды создают атмосферу, в которой ты сможешь освободиться от стресса и забыть о прежнем восприятии стоматологии как неприятного опыта."
         },
         {
           "num": "04",
-          "title": "Персональный координатор",
-          "desc": "Координатор лечения поможет спланировать график визитов и бюджет."
+          "title": "С кино – в кресле для процедур",
+          "description": "Время, проведенное в кресле, станет приятным — выбери любимый фильм, сериал или обучающий контент и позволь лечению протекать незаметно."
         },
         {
           "num": "05",
-          "title": "Эстетическое совершенство",
-          "desc": "Точность под микроскопом для естественных виниров и коронок."
+          "title": "Все в одном месте",
+          "description": "Для нас важно, что ты экономишь не только деньги, но и время и энергию. Терапевт, протезист, эндодонтист, имплантолог, специалист по эстетике и гигиенист — все в одном месте, в клинике LAVA dental. Это означает более быстрый, точный и эффективный процесс лечения."
         },
         {
           "num": "06",
-          "title": "Скорость и надежность",
-          "desc": "ALL-ON-X — восстановление зубного ряда за один день с немедленной нагрузкой."
+          "title": "Полная конфиденциальность",
+          "description": "Лечение проходит в тихих, закрытых помещениях, а не в открытых зонах. Здесь ты можешь чувствовать себя в безопасности, свободно и комфортно, без посторонних взглядов и помех."
         }
       ]
     },
