@@ -900,6 +900,23 @@ window.LAVA_DATA = {
             "answerHtml": "<div class=\"payload-richtext\"><p>No. We use state-of-the-art — <strong>EMS AIRFLOW® Prophylaxis Master</strong>. It is a safe, precise and comfortable method that removes plaque, pigments and tartar without damaging the tooth tissue.</p></div>"
           }
         ]
+      },
+      {
+        "title": "About the clinic",
+        "items": [
+          {
+            "question": "Why are you called a studio, not a clinic?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>We want to change the perception of dentistry. A studio is a modern, beautiful and cosy space, with a peaceful atmosphere. It is an environment where smiles are created as work of arts — with science, technology and care for people.</p></div>"
+          },
+          {
+            "question": "Where is LAVA Dental Studio?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>You can find us at Ausekļa Street 14 (1st floor), Riga. Parking in zone B is available, which we pay for while you are in our studio.</p></div>"
+          },
+          {
+            "question": "Is parking available for clients?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>Although don't have a private car park, we pay for parking in zone B next door. Just inform our team and we'll take care of the rest.</p></div>"
+          }
+        ]
       }
     ]
   },
@@ -1803,6 +1820,23 @@ window.LAVA_DATA = {
             "answerHtml": "<div class=\"payload-richtext\"><p>Nē. Mēs izmantojam jaunāko tehnoloģiju — <strong>EMS AIRFLOW® Prophylaxis Master</strong>. Tā ir droša, precīza un komfortabla metode, kas noņem aplikumu, pigmentus un zobakmeni, nebojājot zobu audus.</p></div>"
           }
         ]
+      },
+      {
+        "title": "Par studiju",
+        "items": [
+          {
+            "question": "Kāpēc tieši studija, nevis klīnika?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>Mēs vēlamies mainīt priekšstatu par zobārstniecību. Studija ir moderna, skaista un mājīga telpa ar mierīgu atmosfēru. Tā ir vide, kurā smaidi top kā mākslas darbi — ar zinātni, tehnoloģijām un rūpēm par cilvēkiem.</p></div>"
+          },
+          {
+            "question": "Kur atrodas LAVA Dental Studio?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>Atrodamies Rīgā, Ausekļa ielā 14 (1. stāvā). Pieejama B zonas stāvvieta, kuru mēs apmaksājam, kamēr atrodaties pie mums.</p></div>"
+          },
+          {
+            "question": "Vai klientiem ir pieejama autostāvvieta?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>Lai gan mums nav savas privātās autostāvvietas, mēs apmaksājam blakus esošo B zonas stāvvietu. Vienkārši paziņojiet mūsu komandai, un mēs par to parūpēsimies.</p></div>"
+          }
+        ]
       }
     ]
   },
@@ -2704,6 +2738,23 @@ window.LAVA_DATA = {
           {
             "question": "Является ли гигиена полости рта болезненной процедурой?",
             "answerHtml": "<div class=\"payload-richtext\"><p>Нет. Мы используем новейшую технологию — <strong>EMS AIRFLOW® Prophylaxis Master</strong>. Это безопасный, точный и комфортный метод удаления зубного налёта, пигментов и зубного камня без повреждения тканей зуба.</p></div>"
+          }
+        ]
+      },
+      {
+        "title": "О студии",
+        "items": [
+          {
+            "question": "Почему именно студия, а не клиника?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>Мы хотим изменить представление о стоматологии. Студия — это современное, красивое и уютное пространство со спокойной атмосферой. Это место, где улыбки создаются как произведения искусства — с наукой, технологиями и заботой о людях.</p></div>"
+          },
+          {
+            "question": "Где находится LAVA Dental Studio?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>Мы находимся в Риге, на улице Аусекля 14 (1 этаж). Рядом есть парковка зоны B, которую мы оплачиваем на время вашего визита.</p></div>"
+          },
+          {
+            "question": "Есть ли парковка для клиентов?",
+            "answerHtml": "<div class=\"payload-richtext\"><p>Хотя у нас нет собственной закрытой стоянки, мы оплачиваем парковку зоны B рядом со студией. Просто предупредите администратора, и мы обо всём позаботимся.</p></div>"
           }
         ]
       }

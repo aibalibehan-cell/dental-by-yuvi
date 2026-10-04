@@ -461,7 +461,43 @@
     renderPricingContent();
   }
 
-  // 9. FAQ Section
+  // 9. FAQ Section & Accordion
+  function initFaqAccordion() {
+    const categories = document.querySelectorAll('.faq-category');
+    categories.forEach(cat => {
+      const catSummary = cat.querySelector(':scope > summary');
+      if (catSummary && !catSummary.dataset.bound) {
+        catSummary.dataset.bound = '1';
+        catSummary.addEventListener('click', (e) => {
+          e.preventDefault();
+          const isOpen = cat.hasAttribute('open');
+          if (isOpen) {
+            cat.removeAttribute('open');
+          } else {
+            cat.setAttribute('open', '');
+          }
+        });
+      }
+
+      const items = cat.querySelectorAll('.faq-item');
+      items.forEach(item => {
+        const itemSummary = item.querySelector(':scope > summary');
+        if (itemSummary && !itemSummary.dataset.bound) {
+          itemSummary.dataset.bound = '1';
+          itemSummary.addEventListener('click', (e) => {
+            e.preventDefault();
+            const isItemOpen = item.hasAttribute('open');
+            if (isItemOpen) {
+              item.removeAttribute('open');
+            } else {
+              item.setAttribute('open', '');
+            }
+          });
+        }
+      });
+    });
+  }
+
   function renderFaqContent(categories) {
     if (!categories || !categories.length) return;
     const container = document.querySelector('.faq-categories');
@@ -498,6 +534,8 @@
         </div>
       </details>
     `).join('');
+
+    initFaqAccordion();
   }
 
   // 10. Language Switcher & Complete Translation
@@ -812,27 +850,19 @@
 
   // 13. Interactive Luxury Appointment Booking Flow
   function initBookingTriggers() {
-    const heroCta = document.querySelector('.hero__cta');
-    if (heroCta) {
-      heroCta.addEventListener('click', (e) => {
+    const bookingLinks = document.querySelectorAll('.hero__cta, .about-apply-box__cta-button, a[href="#booking"]');
+    bookingLinks.forEach(btn => {
+      btn.addEventListener('click', (e) => {
         e.preventDefault();
         window.openBookingModal('Complex diagnostics');
       });
-    }
-
-    const applyBtn = document.querySelector('.about-apply-box__cta-button');
-    if (applyBtn) {
-      applyBtn.addEventListener('click', (e) => {
-        e.preventDefault();
-        window.openBookingModal('Complex diagnostics');
-      });
-    }
+    });
   }
 
   // 14. Footer Vacancies Interaction
   function initVacanciesButton() {
-    const vacBtn = document.querySelector('.vacancies-button');
-    if (vacBtn) {
+    const vacBtns = document.querySelectorAll('.vacancies-button');
+    vacBtns.forEach(vacBtn => {
       vacBtn.addEventListener('click', (e) => {
         e.preventDefault();
         const teamSec = document.getElementById('team');
@@ -851,7 +881,7 @@
           }, 800);
         }
       });
-    }
+    });
   }
 
   // 15. Contact Feedback Toasts
@@ -908,29 +938,10 @@
     }
   }
 
-  // 18. Luxury Preloader System
+  // 18. Preloader Cleanup
   function initPreloader() {
     const preloader = document.getElementById('luxury-preloader');
-    const fill = document.getElementById('preloader-bar-fill');
-    if (!preloader) return;
-
-    // Start loading bar smoothly
-    requestAnimationFrame(() => {
-      if (fill) fill.style.width = '60%';
-    });
-
-    const finishPreloader = () => {
-      if (preloader.classList.contains('is-loaded')) return;
-      if (fill) fill.style.width = '100%';
-      setTimeout(() => {
-        preloader.classList.add('is-loaded');
-        setTimeout(() => {
-          preloader.style.display = 'none';
-        }, 850);
-      }, 350);
-    };
-
-    setTimeout(finishPreloader, 350);
+    if (preloader) preloader.remove();
   }
 
   // 19. Concierge Search Triggers & Shortcuts
@@ -966,6 +977,7 @@
   document.addEventListener('DOMContentLoaded', () => {
     initLenis();
     initPreloader();
+    initFaqAccordion();
     initSearchTriggers();
     initVideoButtons();
     initContourCanvas();
