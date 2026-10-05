@@ -241,6 +241,24 @@
     let isPlaying = true;
     let timer = null;
 
+    const autoplayContainer = carousel.querySelector('.carousel-autoplay');
+    if (autoplayContainer) autoplayContainer.classList.add('carousel-autoplay--visible');
+
+    function updateControls() {
+      if (!autoplayContainer) return;
+      if (isPlaying) {
+        autoplayContainer.classList.remove('carousel-autoplay--paused');
+      } else {
+        autoplayContainer.classList.add('carousel-autoplay--paused');
+      }
+      const playIcon = playBtn ? playBtn.querySelector('.icon-play') : null;
+      const pauseIcon = playBtn ? playBtn.querySelector('.icon-pause') : null;
+      if (playIcon && pauseIcon) {
+        playIcon.style.display = isPlaying ? 'none' : 'block';
+        pauseIcon.style.display = isPlaying ? 'block' : 'none';
+      }
+    }
+
     function showSlide(idx) {
       currentIndex = (idx + images.length) % images.length;
       images.forEach((img, i) => {
@@ -253,6 +271,7 @@
           dot.classList.remove('carousel-autoplay__dot--active');
         }
       });
+      updateControls();
     }
 
     function nextSlide() {
@@ -262,11 +281,13 @@
     function startAutoplay() {
       stopAutoplay();
       isPlaying = true;
+      updateControls();
       timer = setInterval(nextSlide, 5000);
     }
 
     function stopAutoplay() {
       isPlaying = false;
+      updateControls();
       if (timer) { clearInterval(timer); timer = null; }
     }
 
@@ -668,9 +689,22 @@
     // About Section
     if (data.about) {
       const processTitle = document.querySelector('.about-process__title');
-      if (processTitle) processTitle.textContent = data.about.title;
+      if (processTitle) {
+        if (currentLang === 'lv') {
+          processTitle.innerHTML = '<span class="line" style="display: block; --line-i: 0;">Mēs mainām pieredzi un </span><span class="line" style="display: block; --line-i: 1;">palīdzam atgūt pārliecību</span>';
+        } else if (currentLang === 'ru') {
+          processTitle.innerHTML = '<span class="line" style="display: block; --line-i: 0;">Мы меняем опыт и </span><span class="line" style="display: block; --line-i: 1;">возвращаем уверенность</span>';
+        } else {
+          processTitle.innerHTML = '<span class="line" style="display: block; --line-i: 0;">We change the experience and </span><span class="line" style="display: block; --line-i: 1;">help you regain confidence</span>';
+        }
+      }
       const slogan = document.querySelector('.about-process-carousel__slogan');
-      if (slogan) slogan.textContent = data.about.subtitle || '';
+      if (slogan) {
+        const text = data.about.subtitle || '';
+        const words = text.trim().split(/\s+/);
+        slogan.innerHTML = words.map((w, i) => `<span class="word" style="--i:${i}">${w}</span>`).join(' ') +
+          `<span class="sr-only">${text}</span>`;
+      }
       const expTitle = document.querySelector('.about-experience .section-title');
       if (expTitle) expTitle.textContent = data.about.featuresHeading || '';
       const applyTitles = document.querySelectorAll('.reveal-block__title');

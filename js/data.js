@@ -342,7 +342,8 @@ window.LAVA_DATA = {
     "portfolioData": [
       {
         "id": "68da7a3c848b54b6ae384d34",
-        "type": "comparison",
+        "type": "video",
+        "video": "assets/videos/v1.webm",
         "preview": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
         "before": "assets/images/case_1_before_med_alberts1pirms-680x450.avif",
         "after": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
@@ -1262,7 +1263,8 @@ window.LAVA_DATA = {
     "portfolioData": [
       {
         "id": "68da7a3c848b54b6ae384d34",
-        "type": "comparison",
+        "type": "video",
+        "video": "assets/videos/v1.webm",
         "preview": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
         "before": "assets/images/case_1_before_med_alberts1pirms-680x450.avif",
         "after": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
@@ -2182,7 +2184,8 @@ window.LAVA_DATA = {
     "portfolioData": [
       {
         "id": "68da7a3c848b54b6ae384d34",
-        "type": "comparison",
+        "type": "video",
+        "video": "assets/videos/v1.webm",
         "preview": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
         "before": "assets/images/case_1_before_med_alberts1pirms-680x450.avif",
         "after": "assets/images/case_1_after_med_alberts1p_c4_93c-680x450.avif",
